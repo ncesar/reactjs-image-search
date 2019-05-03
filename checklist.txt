@@ -1,0 +1,9 @@
+[] - Adicionar um formulário de pesquisa na página
+[] - Atualizar o state quando o input de pesquisa for modificado
+[] - Fazer uma requisição para a API do Unsplash
+[] - Imprimir o conteúdo da API no console.log
+[] - Imprimir as imagens ao clicar no Search
+[] - Adicionar um loading ao clicar no Search
+[] - Remover o loading após o conteúdo ser carregado
+[] - Refatorar o código em componentes
+[] - ????
