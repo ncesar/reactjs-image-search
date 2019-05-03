@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Busca de imagens através de um formulário, com imagens servidas de um API(Unsplashed).
+Para o app funcionar, é preciso de uma client_id, que pode ser colocada na constante API. Para conseguir uma é necessário fazer um cadastro no site unsplashed.com
+
 ## Available Scripts
 
 In the project directory, you can run:
